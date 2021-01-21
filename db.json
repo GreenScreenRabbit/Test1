@@ -1,4 +1,6 @@
 [
+   
+    
     {
       "id": 1,
       "title": "Post 1",
@@ -27,4 +29,6 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor4"
     }
+    
+    
 ]
