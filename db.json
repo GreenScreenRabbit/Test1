@@ -52,31 +52,31 @@
     },
      {
       "id": 5,
-      "title": "Post 1",
+      "title": "Post 5",
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
-      "name": "Viktor1"
+      "name": "Viktor5"
     },
     {
       "id": 6,
-      "title": "Post 2",
+      "title": "Post 6",
       "picture": "https://lh3.googleusercontent.com/proxy/wKgHBHn51YLMK4fT7On1gzqxPbhdju7ZUdMvWqDFkIjXt0A7QurCG4JuE-Ia0dH7Upku1hpINUxMNB4oCwaMntBTcC_HP-tXEg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor2"
+      "name": "Viktor6"
     },
     {
       "id": 7,
-      "title": "Post 3",
+      "title": "Post 7",
       "picture": "https://www.patee.ru/r/x6/10/62/f2/960m.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor3"
+      "name": "Viktor7"
     },
     {
       "id": 8,
-      "title": "Post 4",
+      "title": "Post 8",
       "picture": "https://i.ytimg.com/vi/eX11Oy-C_7o/maxresdefault.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor4"
+      "name": "Viktor8"
     },
     
     
