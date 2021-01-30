@@ -25,56 +25,64 @@
       "title": "Post 1",
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
-      "name": "Viktor1"
+      "name": "Viktor1",
+       "OnOrder" : false
     },
     {
       "id": 2,
       "title": "Post 2",
       "picture": "https://www.sb.by/upload/medialibrary/b87/b8736e40db011fdf806d55762ed20e98.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor2"
+      "name": "Viktor2",
+       "OnOrder" : false
     },
     {
       "id": 3,
       "title": "Post 3",
       "picture": "https://www.patee.ru/r/x6/10/62/f2/960m.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor3"
+      "name": "Viktor3",
+       "OnOrder" : false
     },
     {
       "id": 4,
       "title": "Post 4",
       "picture": "https://i.ytimg.com/vi/eX11Oy-C_7o/maxresdefault.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor4"
+      "name": "Viktor4",
+       "OnOrder" : false
     },
     {
       "id": 5,
       "title": "Post 5",
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
-      "name": "Viktor5"
+      "name": "Viktor5",
+       "OnOrder" : false
     },
     {
       "id": 6,
       "title": "Post 6",
       "picture": "https://www.sb.by/upload/medialibrary/b87/b8736e40db011fdf806d55762ed20e98.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor6"
+      "name": "Viktor6",
+       "OnOrder" : false
     },
     {
       "id": 7,
       "title": "Post 7",
       "picture": "https://www.patee.ru/r/x6/10/62/f2/960m.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor7"
+      "name": "Viktor7",
+       "OnOrder" : false
     },
     {
       "id": 8,
       "title": "Post 8",
       "picture": "https://i.ytimg.com/vi/eX11Oy-C_7o/maxresdefault.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
-      "name": "Viktor8"
+      "name": "Viktor8",
+       "OnOrder" : false
     }
 
        
