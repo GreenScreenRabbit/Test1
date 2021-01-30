@@ -26,7 +26,7 @@
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor1",
-       "onOrder" : false
+       "onOrder" : true
     },
     {
       "id": 2,
