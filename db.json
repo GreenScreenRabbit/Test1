@@ -26,7 +26,10 @@
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor1",
-       "onOrder" : true
+       "onOrder" : true,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 2,
@@ -34,7 +37,10 @@
       "picture": "https://www.sb.by/upload/medialibrary/b87/b8736e40db011fdf806d55762ed20e98.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor2",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 3,
@@ -42,7 +48,10 @@
       "picture": "https://www.patee.ru/r/x6/10/62/f2/960m.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor3",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 4,
@@ -50,7 +59,10 @@
       "picture": "https://i.ytimg.com/vi/eX11Oy-C_7o/maxresdefault.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor4",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 5,
@@ -58,7 +70,10 @@
       "picture": "https://aif-s3.aif.ru/images/013/535/3c641e84a9dd8c30d9eea9bf84c3271d.jpg",
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor5",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 6,
@@ -66,7 +81,10 @@
       "picture": "https://www.sb.by/upload/medialibrary/b87/b8736e40db011fdf806d55762ed20e98.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor6",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 7,
@@ -74,7 +92,10 @@
       "picture": "https://www.patee.ru/r/x6/10/62/f2/960m.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor7",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     },
     {
       "id": 8,
@@ -82,7 +103,10 @@
       "picture": "https://i.ytimg.com/vi/eX11Oy-C_7o/maxresdefault.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor8",
-       "onOrder" : false
+       "onOrder" : false,
+       "dough":[
+       "classic" , "italia" , "philadelphia" 
+       ]
     }
 
        
