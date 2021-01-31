@@ -27,9 +27,9 @@
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor1",
        "onOrder" : true,
-       "dough":[
+       "dough":{
           { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+   }
     },
     {
       "id": 2,
