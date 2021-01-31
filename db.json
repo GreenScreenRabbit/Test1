@@ -38,9 +38,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor2",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 3,
@@ -49,9 +49,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor3",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 4,
@@ -60,9 +60,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor4",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 5,
@@ -71,9 +71,9 @@
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor5",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 6,
@@ -82,9 +82,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor6",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+       "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 7,
@@ -93,9 +93,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor7",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     },
     {
       "id": 8,
@@ -104,9 +104,9 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor8",
        "onOrder" : false,
-       "dough":[
-       { "classic": "classic" },  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
-       ]
+        "dough":{
+           "classic": "classic" ,  "italia" : "italia" ,  "philadelphia" :"philadelphia" 
+   }
     }
 
        
