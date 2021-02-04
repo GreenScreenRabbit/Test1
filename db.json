@@ -39,7 +39,7 @@
       "name": "Viktor2",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -50,7 +50,7 @@
       "name": "Viktor3",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -61,7 +61,7 @@
       "name": "Viktor4",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -72,7 +72,7 @@
       "name": "Viktor5",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -83,7 +83,7 @@
       "name": "Viktor6",
        "onOrder" : false,
        "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -94,7 +94,7 @@
       "name": "Viktor7",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
@@ -105,7 +105,7 @@
       "name": "Viktor8",
        "onOrder" : false,
         "dough":[
-           {"classic": "classic"} ,  {"italia" : "italia"} ,  {"philadelphia" :"philadelphia"} 
+           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     }
 
