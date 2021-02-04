@@ -28,7 +28,7 @@
       "name": "Viktor1",
        "onOrder" : true,
        "dough":[
-          {"id": "classic"} ,  {"id" : "italia"} ,  {"id" :"philadelphia"} 
+          {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
     },
     {
