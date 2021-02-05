@@ -27,7 +27,7 @@
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor1",
        "onOrder" : true,
-       "selectedDough": null
+       "selectedDough": null,
        "dough":[
           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -39,7 +39,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor2",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -51,7 +51,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor3",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -63,7 +63,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor4",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -75,7 +75,7 @@
     "thumbnailUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/756032875259451.jpg",
       "name": "Viktor5",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -87,7 +87,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor6",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
        "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -99,7 +99,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor7",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -111,7 +111,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/d32776",
       "name": "Viktor8",
        "onOrder" : false,
-       "selectedDough": null
+       "selectedDough": null,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
