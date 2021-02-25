@@ -28,6 +28,7 @@
       "name": "Viktor1",
        "onOrder" : true,
        "selectedDough": null,
+       "price" : 180,
        "dough":[
           {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -40,6 +41,7 @@
       "name": "Viktor2",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -52,6 +54,7 @@
       "name": "Viktor3",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -64,6 +67,7 @@
       "name": "Viktor4",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -76,6 +80,7 @@
       "name": "Viktor5",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -88,6 +93,7 @@
       "name": "Viktor6",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
        "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -100,6 +106,7 @@
       "name": "Viktor7",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
@@ -112,6 +119,7 @@
       "name": "Viktor8",
        "onOrder" : false,
        "selectedDough": null,
+       "price" : 180,
         "dough":[
            {"dough": "classic"} ,  {"dough" : "italia"} ,  {"dough" :"philadelphia"} 
    ]
